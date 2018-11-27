@@ -1,0 +1,15 @@
+body{
+     background: #F5F5F5;
+margin: 0;
+padding: 0;
+}
+.my_small{
+    font-size: 0.8rem;
+
+}
+.my_gray{
+    color: #808080;
+}
+header>ul .active{
+    color:#333;
+}

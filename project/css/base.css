@@ -1,0 +1,32 @@
+.my_header{
+    width: 100%;
+    height: 10rem;
+}
+
+.my_footer{
+    width: 100%;
+    height: 30rem;
+}
+#mycar.carousel-indicators li{
+    width: 1rem;
+    height: 1rem;
+     border-radius: 50%;
+}
+#mycar.carousel-indicators.active{
+    background: #0aa1ed;
+}
+#mycar .carousel-control-prev,
+#mycar .carousel-control-next{
+    width: 5%;
+    height: 15%;
+    top: 45%;
+    background: #dddddd;
+
+}
+img.my_img2{
+    height: 16rem;
+}
+.my_small{
+    font-size: 0.8rem;
+
+}
